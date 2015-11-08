@@ -5,8 +5,8 @@ The second (Solar Collection envelope) represents the opposite - the minimum hei
 
 This file has been submitted by [boris-p](https://github.com/boris-p)
 
-[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=boris-p&fork=hydra&id=20_LadyBug_solarEnvelope)
+[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=boris-p&fork=hydra&id=SolarEnvelope)
 ### Tags 
-20_LadyBug_solarEnvelope
+LBExampleFiles
 ### Thumbnail 
-![Screenshot](https://raw.githubusercontent.com/boris-p/hydra/master/20_LadyBug_solarEnvelope/thumbnail.png)
+![Screenshot](https://raw.githubusercontent.com/boris-p/hydra/master/SolarEnvelope/thumbnail.png)
